@@ -164,23 +164,14 @@ h1, h2, h3, h4, h5, h6 {
 	/*work image*/
 	/*background: url(http://i.imgur.com/CGTLZr7.png) no-repeat center top;*/
 	background-color: #f2f2f2;
-	padding-top: 150px;
-	padding-bottom: 100px;
+	padding-top: 95px;
+	padding-bottom:40px;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 300px;
+	min-height: 450px;
 	width: 100%;
-	
-    -webkit-background-size: 100%;
-    -moz-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: 100%;
 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
 }
 
 
